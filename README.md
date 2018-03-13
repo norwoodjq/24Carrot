@@ -1,4 +1,5 @@
 24 Carrot Gardens Blockchain Rewards
+
 a loyalty program for the 24 Carrot urban farming project
 
 Introduction
